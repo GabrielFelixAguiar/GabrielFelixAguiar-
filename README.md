@@ -1,7 +1,10 @@
  Olá Rede, me chamo Gabriel Felix ! 
  
- Bem vindo ao meu perfil GitHub 👋
+ ## Bem vindo ao meu perfil GitHub 👋
 
+## 🚀 Sobre mim
+- 🔭 Atualmente estou trabalhando em Redes e Infraestrutura junto a isso sou desenvolvedor freelancer: Especialista em criação de sites, apps e softwares sob medida para clientes.
+- 🌱 Estudando no 6 período de Ciência da Computação, Realizando cursos web sobre programação e tecnologia
 ## 🛠️ Habilidades
 
 ## Linguagens de Programação e Frameworks:
